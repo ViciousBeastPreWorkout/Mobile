@@ -132,7 +132,10 @@ table {
     margin: auto;
     margin-top: 2%;
     margin-bottom: 5%;
-    width: 80%;
+    width: 70%;
+    
+    
+    
     
     
   }
@@ -142,6 +145,7 @@ table {
     text-align: center;
     padding: 4px;
     color: #edf0f1;
+    font-size: 90%;
     
   }
   
@@ -442,7 +446,7 @@ END OF THE FLAVOUR CAT
     color: #edf0f1;
     background-color:#252629;
     border: solid 4px black;
-    width: 80%;
+    width: 70%;
     margin: auto;
     margin-top: 5%;
     margin-bottom: 5%;
