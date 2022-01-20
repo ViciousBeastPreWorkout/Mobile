@@ -469,4 +469,38 @@ END OF THE FLAVOUR CAT
     
 }
 
+.fla6head{
+    margin-top: 6%;
+}
+
+    
+.fla6des{
+    margin-top: 6%;
+    margin-bottom: 4%;
+ }
+    
+.fla6{
+    border: solid 4px #D2042D;
+    margin-bottom: 5%;
+    background-color:#252629;
+    
+}
+
+.fla7head{
+    margin-top: 6%;
+}
+
+    
+.fla7des{
+    margin-top: 6%;
+    margin-bottom: 4%;
+ }
+    
+.fla7{
+    border: solid 4px #5740aa;
+    margin-bottom: 5%;
+    background-color:#252629;
+    
+}
+
 
