@@ -166,7 +166,7 @@ main{
 
 .NI{
     width: 350px ;
-    height: 220px;
+    height: 250px;
     margin: auto;
     padding-top: 30px;
     text-align: center;
@@ -396,7 +396,7 @@ margin-bottom: 4%;
 }
 
 .fla3{
-    border: solid 4px #fc5a8d;
+    border: solid 4px #A22335;
     margin-bottom: 5%;
     background-color:#252629;
 
@@ -412,7 +412,7 @@ margin-bottom: 4%;
 }
 
 .fla4{
-    border: solid 4px #FFE5B4;
+    border: solid 4px #E6C993;
     margin-bottom: 5%;
     background-color:#252629;
 
@@ -480,7 +480,7 @@ END OF THE FLAVOUR CAT
  }
     
 .fla6{
-    border: solid 4px #D2042D;
+    border: solid 4px #750017;
     margin-bottom: 5%;
     background-color:#252629;
     
@@ -501,6 +501,21 @@ END OF THE FLAVOUR CAT
     margin-bottom: 5%;
     background-color:#252629;
     
+}
+
+.BBE{
+    width: 350px ;
+    height: 120px;
+    margin: auto;
+    padding-top: 30px;
+    text-align: center;
+    border: 4px solid black;
+    background-color: #252629;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    color: #edf0f1;
+    margin-bottom: 2%;
 }
 
 
